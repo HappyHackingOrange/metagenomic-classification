@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_4_439.483061,1604,Clostridium perfringensATCC 13124,1510,925
+LIB.PFspades_4_439.483061,1604,Clostridium thermocellumVPI 7372 ATCC 27405,1526,812
+LIB.PFspades_4_439.483061,1604,Coraliomargarita akajimensis DSM 45221,1551,784
+LIB.PFspades_4_439.483061,1604,Corynebacterium glutamicum ATCC 13032,1521,892
+LIB.PFspades_4_439.483061,1604,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,667
+LIB.PFspades_4_439.483061,1604,Desulfosporosinus meridiei DSM 13257,1565,762
+LIB.PFspades_4_439.483061,1604,Desulfotomaculum gibsoniae DSM 7213,1528,732
+LIB.PFspades_4_439.483061,1604,E.coli K12 ATCC 700926,1538,810
+LIB.PFspades_4_439.483061,1604,Echinicola vietnamensis DSM 17526,1519,939
+LIB.PFspades_4_439.483061,1604,Fervidobacterium pennivorans DSM 9078,1153,681
+LIB.PFspades_4_439.483061,1604,Frateuria aurantia DSM 6220,1541,677
+LIB.PFspades_4_439.483061,1604,Halovivax ruber XH-70,1466,964
+LIB.PFspades_4_439.483061,1604,Hirschia baltica ATCC 49814,1446,891
+LIB.PFspades_4_439.483061,1604,Meiothermus silvanus DSM 9946,1490,882
+LIB.PFspades_4_439.483061,1604,Natronobacterium gregoryi SP2,1464,962
+LIB.PFspades_4_439.483061,1604,Natronococcus occultus DSM 3396,1461,951
+LIB.PFspades_4_439.483061,1604,Nocardiopsis dassonvillei DSM 43111,1531,802
+LIB.PFspades_4_439.483061,1604,Olsenella uli DSM 7084,1511,973
+LIB.PFspades_4_439.483061,1604,Pseudomonas stutzeri RCH2,1531,809
+LIB.PFspades_4_439.483061,1604,Salmonella bongori NCTC 12419,1538,803
+LIB.PFspades_4_439.483061,1604,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,805
+LIB.PFspades_4_439.483061,1604,Segniliparus rotundus DSM 44985,1513,939
+LIB.PFspades_4_439.483061,1604,Spirochaeta smaragdinae DSM 11293,1540,792
+LIB.PFspades_4_439.483061,1604,Streptococcus pyogenes M1 GAS,1545,748
+LIB.PFspades_4_439.483061,1604,Terriglobus roseus DSM 18391,1498,845
+LIB.PFspades_4_439.483061,1604,Thermobacillus composti KWC4,1603,0

@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_21_3.386923,1479,Clostridium perfringensATCC 13124,1510,374
+LIB.PFspades_21_3.386923,1479,Clostridium thermocellumVPI 7372 ATCC 27405,1526,894
+LIB.PFspades_21_3.386923,1479,Coraliomargarita akajimensis DSM 45221,1551,942
+LIB.PFspades_21_3.386923,1479,Corynebacterium glutamicum ATCC 13032,1521,906
+LIB.PFspades_21_3.386923,1479,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,907
+LIB.PFspades_21_3.386923,1479,Desulfosporosinus meridiei DSM 13257,1565,907
+LIB.PFspades_21_3.386923,1479,Desulfotomaculum gibsoniae DSM 7213,1528,896
+LIB.PFspades_21_3.386923,1479,E.coli K12 ATCC 700926,1538,907
+LIB.PFspades_21_3.386923,1479,Echinicola vietnamensis DSM 17526,1519,988
+LIB.PFspades_21_3.386923,1479,Fervidobacterium pennivorans DSM 9078,1153,804
+LIB.PFspades_21_3.386923,1479,Frateuria aurantia DSM 6220,1541,927
+LIB.PFspades_21_3.386923,1479,Halovivax ruber XH-70,1466,963
+LIB.PFspades_21_3.386923,1479,Hirschia baltica ATCC 49814,1446,511
+LIB.PFspades_21_3.386923,1479,Meiothermus silvanus DSM 9946,1490,1066
+LIB.PFspades_21_3.386923,1479,Natronobacterium gregoryi SP2,1464,963
+LIB.PFspades_21_3.386923,1479,Natronococcus occultus DSM 3396,1463,962
+LIB.PFspades_21_3.386923,1479,Nocardiopsis dassonvillei DSM 43111,1524,821
+LIB.PFspades_21_3.386923,1479,Olsenella uli DSM 7084,1511,967
+LIB.PFspades_21_3.386923,1479,Pseudomonas stutzeri RCH2,1531,919
+LIB.PFspades_21_3.386923,1479,Salmonella bongori NCTC 12419,1538,906
+LIB.PFspades_21_3.386923,1479,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,907
+LIB.PFspades_21_3.386923,1479,Segniliparus rotundus DSM 44985,1513,913
+LIB.PFspades_21_3.386923,1479,Spirochaeta smaragdinae DSM 11293,1539,854
+LIB.PFspades_21_3.386923,1479,Streptococcus pyogenes M1 GAS,1545,861
+LIB.PFspades_21_3.386923,1479,Terriglobus roseus DSM 18391,1498,805
+LIB.PFspades_21_3.386923,1479,Thermobacillus composti KWC4,1603,913

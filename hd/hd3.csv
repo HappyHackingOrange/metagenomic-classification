@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_12_69.894048,1512,Clostridium perfringensATCC 13124,1510,895
+LIB.PFspades_12_69.894048,1512,Clostridium thermocellumVPI 7372 ATCC 27405,1526,891
+LIB.PFspades_12_69.894048,1512,Coraliomargarita akajimensis DSM 45221,1551,1003
+LIB.PFspades_12_69.894048,1512,Corynebacterium glutamicum ATCC 13032,1521,828
+LIB.PFspades_12_69.894048,1512,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,951
+LIB.PFspades_12_69.894048,1512,Desulfosporosinus meridiei DSM 13257,1565,992
+LIB.PFspades_12_69.894048,1512,Desulfotomaculum gibsoniae DSM 7213,1581,894
+LIB.PFspades_12_69.894048,1512,E.coli K12 ATCC 700926,1538,1004
+LIB.PFspades_12_69.894048,1512,Echinicola vietnamensis DSM 17526,1519,1058
+LIB.PFspades_12_69.894048,1512,Fervidobacterium pennivorans DSM 9078,1153,662
+LIB.PFspades_12_69.894048,1512,Frateuria aurantia DSM 6220,1541,974
+LIB.PFspades_12_69.894048,1512,Halovivax ruber XH-70,1466,996
+LIB.PFspades_12_69.894048,1512,Hirschia baltica ATCC 49814,1443,802
+LIB.PFspades_12_69.894048,1512,Meiothermus silvanus DSM 9946,1490,963
+LIB.PFspades_12_69.894048,1512,Natronobacterium gregoryi SP2,1464,989
+LIB.PFspades_12_69.894048,1512,Natronococcus occultus DSM 3396,1463,974
+LIB.PFspades_12_69.894048,1512,Nocardiopsis dassonvillei DSM 43111,1524,982
+LIB.PFspades_12_69.894048,1512,Olsenella uli DSM 7084,1511,0
+LIB.PFspades_12_69.894048,1512,Pseudomonas stutzeri RCH2,1531,1015
+LIB.PFspades_12_69.894048,1512,Salmonella bongori NCTC 12419,1538,1001
+LIB.PFspades_12_69.894048,1512,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,1005
+LIB.PFspades_12_69.894048,1512,Segniliparus rotundus DSM 44985,1513,1007
+LIB.PFspades_12_69.894048,1512,Spirochaeta smaragdinae DSM 11293,1539,921
+LIB.PFspades_12_69.894048,1512,Streptococcus pyogenes M1 GAS,1545,921
+LIB.PFspades_12_69.894048,1512,Terriglobus roseus DSM 18391,1498,908
+LIB.PFspades_12_69.894048,1512,Thermobacillus composti KWC4,1603,974

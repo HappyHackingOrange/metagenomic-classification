@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_14_54.010634,1497,Clostridium perfringensATCC 13124,1510,1066
+LIB.PFspades_14_54.010634,1497,Clostridium thermocellumVPI 7372 ATCC 27405,1526,992
+LIB.PFspades_14_54.010634,1497,Coraliomargarita akajimensis DSM 45221,1551,995
+LIB.PFspades_14_54.010634,1497,Corynebacterium glutamicum ATCC 13032,1522,834
+LIB.PFspades_14_54.010634,1497,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,814
+LIB.PFspades_14_54.010634,1497,Desulfosporosinus meridiei DSM 13257,1565,818
+LIB.PFspades_14_54.010634,1497,Desulfotomaculum gibsoniae DSM 7213,1581,803
+LIB.PFspades_14_54.010634,1497,E.coli K12 ATCC 700926,1538,1023
+LIB.PFspades_14_54.010634,1497,Echinicola vietnamensis DSM 17526,1519,1029
+LIB.PFspades_14_54.010634,1497,Fervidobacterium pennivorans DSM 9078,1153,806
+LIB.PFspades_14_54.010634,1497,Frateuria aurantia DSM 6220,1541,778
+LIB.PFspades_14_54.010634,1497,Halovivax ruber XH-70,1466,961
+LIB.PFspades_14_54.010634,1497,Hirschia baltica ATCC 49814,1446,785
+LIB.PFspades_14_54.010634,1497,Meiothermus silvanus DSM 9946,1490,944
+LIB.PFspades_14_54.010634,1497,Natronobacterium gregoryi SP2,1464,956
+LIB.PFspades_14_54.010634,1497,Natronococcus occultus DSM 3396,1464,956
+LIB.PFspades_14_54.010634,1497,Nocardiopsis dassonvillei DSM 43111,1531,750
+LIB.PFspades_14_54.010634,1497,Olsenella uli DSM 7084,1511,907
+LIB.PFspades_14_54.010634,1497,Pseudomonas stutzeri RCH2,1532,1010
+LIB.PFspades_14_54.010634,1497,Salmonella bongori NCTC 12419,1538,1015
+LIB.PFspades_14_54.010634,1497,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,1014
+LIB.PFspades_14_54.010634,1497,Segniliparus rotundus DSM 44985,1513,761
+LIB.PFspades_14_54.010634,1497,Spirochaeta smaragdinae DSM 11293,1539,813
+LIB.PFspades_14_54.010634,1497,Streptococcus pyogenes M1 GAS,1546,995
+LIB.PFspades_14_54.010634,1497,Terriglobus roseus DSM 18391,1498,0
+LIB.PFspades_14_54.010634,1497,Thermobacillus composti KWC4,1603,845

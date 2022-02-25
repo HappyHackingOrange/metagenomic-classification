@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_5_82.268872,1551,Clostridium perfringensATCC 13124,1510,947
+LIB.PFspades_5_82.268872,1551,Clostridium thermocellumVPI 7372 ATCC 27405,1526,801
+LIB.PFspades_5_82.268872,1551,Coraliomargarita akajimensis DSM 45221,1551,0
+LIB.PFspades_5_82.268872,1551,Corynebacterium glutamicum ATCC 13032,1521,1011
+LIB.PFspades_5_82.268872,1551,Desulfosporosinus acidiphilus SJ4 DSM 22704,1657,864
+LIB.PFspades_5_82.268872,1551,Desulfosporosinus meridiei DSM 13257,1566,869
+LIB.PFspades_5_82.268872,1551,Desulfotomaculum gibsoniae DSM 7213,1581,861
+LIB.PFspades_5_82.268872,1551,E.coli K12 ATCC 700926,1538,970
+LIB.PFspades_5_82.268872,1551,Echinicola vietnamensis DSM 17526,1519,986
+LIB.PFspades_5_82.268872,1551,Fervidobacterium pennivorans DSM 9078,1153,661
+LIB.PFspades_5_82.268872,1551,Frateuria aurantia DSM 6220,1541,1098
+LIB.PFspades_5_82.268872,1551,Halovivax ruber XH-70,1466,983
+LIB.PFspades_5_82.268872,1551,Hirschia baltica ATCC 49814,1446,895
+LIB.PFspades_5_82.268872,1551,Meiothermus silvanus DSM 9946,1490,930
+LIB.PFspades_5_82.268872,1551,Natronobacterium gregoryi SP2,1464,976
+LIB.PFspades_5_82.268872,1551,Natronococcus occultus DSM 3396,1461,973
+LIB.PFspades_5_82.268872,1551,Nocardiopsis dassonvillei DSM 43111,1524,928
+LIB.PFspades_5_82.268872,1551,Olsenella uli DSM 7084,1511,1002
+LIB.PFspades_5_82.268872,1551,Pseudomonas stutzeri RCH2,1532,928
+LIB.PFspades_5_82.268872,1551,Salmonella bongori NCTC 12419,1538,968
+LIB.PFspades_5_82.268872,1551,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,970
+LIB.PFspades_5_82.268872,1551,Segniliparus rotundus DSM 44985,1513,1003
+LIB.PFspades_5_82.268872,1551,Spirochaeta smaragdinae DSM 11293,1540,978
+LIB.PFspades_5_82.268872,1551,Streptococcus pyogenes M1 GAS,1546,921
+LIB.PFspades_5_82.268872,1551,Terriglobus roseus DSM 18391,1498,996
+LIB.PFspades_5_82.268872,1551,Thermobacillus composti KWC4,1603,783

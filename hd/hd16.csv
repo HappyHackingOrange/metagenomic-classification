@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_2_170.172388,1448,Clostridium perfringensATCC 13124,1510,652
+LIB.PFspades_2_170.172388,1448,Clostridium thermocellumVPI 7372 ATCC 27405,1526,868
+LIB.PFspades_2_170.172388,1448,Coraliomargarita akajimensis DSM 45221,1551,897
+LIB.PFspades_2_170.172388,1448,Corynebacterium glutamicum ATCC 13032,1521,950
+LIB.PFspades_2_170.172388,1448,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,897
+LIB.PFspades_2_170.172388,1448,Desulfosporosinus meridiei DSM 13257,1566,896
+LIB.PFspades_2_170.172388,1448,Desulfotomaculum gibsoniae DSM 7213,1528,857
+LIB.PFspades_2_170.172388,1448,E.coli K12 ATCC 700926,1538,876
+LIB.PFspades_2_170.172388,1448,Echinicola vietnamensis DSM 17526,1519,892
+LIB.PFspades_2_170.172388,1448,Fervidobacterium pennivorans DSM 9078,1153,811
+LIB.PFspades_2_170.172388,1448,Frateuria aurantia DSM 6220,1541,904
+LIB.PFspades_2_170.172388,1448,Halovivax ruber XH-70,1466,1010
+LIB.PFspades_2_170.172388,1448,Hirschia baltica ATCC 49814,1446,0
+LIB.PFspades_2_170.172388,1448,Meiothermus silvanus DSM 9946,1490,866
+LIB.PFspades_2_170.172388,1448,Natronobacterium gregoryi SP2,1464,1006
+LIB.PFspades_2_170.172388,1448,Natronococcus occultus DSM 3396,1464,1018
+LIB.PFspades_2_170.172388,1448,Nocardiopsis dassonvillei DSM 43111,1530,879
+LIB.PFspades_2_170.172388,1448,Olsenella uli DSM 7084,1511,919
+LIB.PFspades_2_170.172388,1448,Pseudomonas stutzeri RCH2,1531,889
+LIB.PFspades_2_170.172388,1448,Salmonella bongori NCTC 12419,1538,878
+LIB.PFspades_2_170.172388,1448,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,880
+LIB.PFspades_2_170.172388,1448,Segniliparus rotundus DSM 44985,1513,893
+LIB.PFspades_2_170.172388,1448,Spirochaeta smaragdinae DSM 11293,1540,878
+LIB.PFspades_2_170.172388,1448,Streptococcus pyogenes M1 GAS,1545,947
+LIB.PFspades_2_170.172388,1448,Terriglobus roseus DSM 18391,1498,786
+LIB.PFspades_2_170.172388,1448,Thermobacillus composti KWC4,1603,892

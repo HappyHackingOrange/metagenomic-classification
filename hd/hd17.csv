@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_3_223.359275,1541,Clostridium perfringensATCC 13124,1510,947
+LIB.PFspades_3_223.359275,1541,Clostridium thermocellumVPI 7372 ATCC 27405,1526,686
+LIB.PFspades_3_223.359275,1541,Coraliomargarita akajimensis DSM 45221,1551,1098
+LIB.PFspades_3_223.359275,1541,Corynebacterium glutamicum ATCC 13032,1521,923
+LIB.PFspades_3_223.359275,1541,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,766
+LIB.PFspades_3_223.359275,1541,Desulfosporosinus meridiei DSM 13257,1566,848
+LIB.PFspades_3_223.359275,1541,Desulfotomaculum gibsoniae DSM 7213,1528,843
+LIB.PFspades_3_223.359275,1541,E.coli K12 ATCC 700926,1538,979
+LIB.PFspades_3_223.359275,1541,Echinicola vietnamensis DSM 17526,1519,918
+LIB.PFspades_3_223.359275,1541,Fervidobacterium pennivorans DSM 9078,1153,673
+LIB.PFspades_3_223.359275,1541,Frateuria aurantia DSM 6220,1541,0
+LIB.PFspades_3_223.359275,1541,Halovivax ruber XH-70,1466,1010
+LIB.PFspades_3_223.359275,1541,Hirschia baltica ATCC 49814,1446,902
+LIB.PFspades_3_223.359275,1541,Meiothermus silvanus DSM 9946,1490,850
+LIB.PFspades_3_223.359275,1541,Natronobacterium gregoryi SP2,1464,1018
+LIB.PFspades_3_223.359275,1541,Natronococcus occultus DSM 3396,1461,986
+LIB.PFspades_3_223.359275,1541,Nocardiopsis dassonvillei DSM 43111,1524,908
+LIB.PFspades_3_223.359275,1541,Olsenella uli DSM 7084,1511,973
+LIB.PFspades_3_223.359275,1541,Pseudomonas stutzeri RCH2,1531,696
+LIB.PFspades_3_223.359275,1541,Salmonella bongori NCTC 12419,1538,972
+LIB.PFspades_3_223.359275,1541,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,969
+LIB.PFspades_3_223.359275,1541,Segniliparus rotundus DSM 44985,1513,874
+LIB.PFspades_3_223.359275,1541,Spirochaeta smaragdinae DSM 11293,1540,1058
+LIB.PFspades_3_223.359275,1541,Streptococcus pyogenes M1 GAS,1545,971
+LIB.PFspades_3_223.359275,1541,Terriglobus roseus DSM 18391,1498,779
+LIB.PFspades_3_223.359275,1541,Thermobacillus composti KWC4,1603,676

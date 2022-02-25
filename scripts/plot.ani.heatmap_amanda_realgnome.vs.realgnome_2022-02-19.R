@@ -13,7 +13,7 @@
 # https://github.com/ParBLiSS/FastANI
 
 # To download and install:
-# git clone https://github.com/ParBLiSS
+# git clone https://github.com/ParBLiSS/FastANI
 # cd FastANI
 # ./bootstrap.sh
 # ./configure

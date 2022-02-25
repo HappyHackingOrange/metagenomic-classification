@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_13_157.423986,1470,Clostridium perfringensATCC 13124,1510,985
+LIB.PFspades_13_157.423986,1470,Clostridium thermocellumVPI 7372 ATCC 27405,1526,1012
+LIB.PFspades_13_157.423986,1470,Coraliomargarita akajimensis DSM 45221,1551,994
+LIB.PFspades_13_157.423986,1470,Corynebacterium glutamicum ATCC 13032,1522,932
+LIB.PFspades_13_157.423986,1470,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,939
+LIB.PFspades_13_157.423986,1470,Desulfosporosinus meridiei DSM 13257,1566,944
+LIB.PFspades_13_157.423986,1470,Desulfotomaculum gibsoniae DSM 7213,1529,944
+LIB.PFspades_13_157.423986,1470,E.coli K12 ATCC 700926,1538,955
+LIB.PFspades_13_157.423986,1470,Echinicola vietnamensis DSM 17526,1519,982
+LIB.PFspades_13_157.423986,1470,Fervidobacterium pennivorans DSM 9078,1153,796
+LIB.PFspades_13_157.423986,1470,Frateuria aurantia DSM 6220,1541,1014
+LIB.PFspades_13_157.423986,1470,Halovivax ruber XH-70,1466,1071
+LIB.PFspades_13_157.423986,1470,Hirschia baltica ATCC 49814,1446,1009
+LIB.PFspades_13_157.423986,1470,Meiothermus silvanus DSM 9946,1490,1006
+LIB.PFspades_13_157.423986,1470,Natronobacterium gregoryi SP2,1464,966
+LIB.PFspades_13_157.423986,1470,Natronococcus occultus DSM 3396,1464,0
+LIB.PFspades_13_157.423986,1470,Nocardiopsis dassonvillei DSM 43111,1531,962
+LIB.PFspades_13_157.423986,1470,Olsenella uli DSM 7084,1511,1000
+LIB.PFspades_13_157.423986,1470,Pseudomonas stutzeri RCH2,1531,970
+LIB.PFspades_13_157.423986,1470,Salmonella bongori NCTC 12419,1538,954
+LIB.PFspades_13_157.423986,1470,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,960
+LIB.PFspades_13_157.423986,1470,Segniliparus rotundus DSM 44985,1513,998
+LIB.PFspades_13_157.423986,1470,Spirochaeta smaragdinae DSM 11293,1539,950
+LIB.PFspades_13_157.423986,1470,Streptococcus pyogenes M1 GAS,1546,974
+LIB.PFspades_13_157.423986,1470,Terriglobus roseus DSM 18391,1498,961
+LIB.PFspades_13_157.423986,1470,Thermobacillus composti KWC4,1603,971

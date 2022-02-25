@@ -1,0 +1,27 @@
+PhyloFlash header,Target sequence length,Closest hit to reference 16S,Reference sequence length,HD for closest hit
+LIB.PFspades_15_51.667115,1473,Clostridium perfringensATCC 13124,1510,981
+LIB.PFspades_15_51.667115,1473,Clostridium thermocellumVPI 7372 ATCC 27405,1526,1010
+LIB.PFspades_15_51.667115,1473,Coraliomargarita akajimensis DSM 45221,1551,988
+LIB.PFspades_15_51.667115,1473,Corynebacterium glutamicum ATCC 13032,1522,936
+LIB.PFspades_15_51.667115,1473,Desulfosporosinus acidiphilus SJ4 DSM 22704,1566,951
+LIB.PFspades_15_51.667115,1473,Desulfosporosinus meridiei DSM 13257,1566,963
+LIB.PFspades_15_51.667115,1473,Desulfotomaculum gibsoniae DSM 7213,1529,939
+LIB.PFspades_15_51.667115,1473,E.coli K12 ATCC 700926,1538,954
+LIB.PFspades_15_51.667115,1473,Echinicola vietnamensis DSM 17526,1519,985
+LIB.PFspades_15_51.667115,1473,Fervidobacterium pennivorans DSM 9078,1153,791
+LIB.PFspades_15_51.667115,1473,Frateuria aurantia DSM 6220,1541,1013
+LIB.PFspades_15_51.667115,1473,Halovivax ruber XH-70,1466,0
+LIB.PFspades_15_51.667115,1473,Hirschia baltica ATCC 49814,1443,1005
+LIB.PFspades_15_51.667115,1473,Meiothermus silvanus DSM 9946,1490,997
+LIB.PFspades_15_51.667115,1473,Natronobacterium gregoryi SP2,1464,205
+LIB.PFspades_15_51.667115,1473,Natronococcus occultus DSM 3396,1464,145
+LIB.PFspades_15_51.667115,1473,Nocardiopsis dassonvillei DSM 43111,1529,957
+LIB.PFspades_15_51.667115,1473,Olsenella uli DSM 7084,1511,1003
+LIB.PFspades_15_51.667115,1473,Pseudomonas stutzeri RCH2,1531,967
+LIB.PFspades_15_51.667115,1473,Salmonella bongori NCTC 12419,1538,955
+LIB.PFspades_15_51.667115,1473,Salmonella enterica subsp. arizonae serovar 62 z4 z23 - strain RSK2980,1538,960
+LIB.PFspades_15_51.667115,1473,Segniliparus rotundus DSM 44985,1513,1002
+LIB.PFspades_15_51.667115,1473,Spirochaeta smaragdinae DSM 11293,1539,951
+LIB.PFspades_15_51.667115,1473,Streptococcus pyogenes M1 GAS,1546,966
+LIB.PFspades_15_51.667115,1473,Terriglobus roseus DSM 18391,1498,966
+LIB.PFspades_15_51.667115,1473,Thermobacillus composti KWC4,1603,969

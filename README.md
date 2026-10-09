@@ -33,7 +33,14 @@ Datasets:
 - **Hot Springs Mat**, a synthetic community of Yellowstone hot spring organisms provided by Amanda Shelton (labelled `amanda` in the file names).
 - **E. coli**, a set of E. coli 16S sequences compared with each other.
 
-The BLAST identity and Hamming distance heatmaps for MBARC-26 appear in the paper as Figures 1 to 4.
+The heatmaps these scripts produce appear in the paper as Figures 1 to 4, each with MBARC-26 on top and Hot Springs Mat below. Two of them:
+
+<p align="center">
+<img src="figures/blast_identity_references.png" alt="BLAST percent identity between all reference 16S sequences, MBARC-26 top and Hot Springs Mat bottom" width="48%">
+<img src="figures/hamming_assembled_vs_reference.png" alt="Hamming distance percentage between assembled and reference 16S sequences, MBARC-26 top and Hot Springs Mat bottom" width="48%">
+</p>
+
+*Left: BLAST percent identity between all reference 16S sequences, showing how similar the organisms in each dataset are. Right: Hamming distance between the 16S sequences PhyloFlash assembled and the reference sequences, where 0 means an exact match. Figures 1 and 4 from the bioRxiv preprint of the paper (https://doi.org/10.1101/2022.09.30.510284), licensed under CC BY. I produced these heatmaps with the scripts in this repository.*
 
 ## Code
 

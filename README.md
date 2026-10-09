@@ -36,7 +36,7 @@ Datasets:
 The heatmaps these scripts produce appear in the paper as Figures 1 to 4, each with MBARC-26 on top and Hot Springs Mat below. Two of them:
 
 <p align="center">
-<img src="figures/blast_identity_references.png" alt="BLAST percent identity between all reference 16S sequences, MBARC-26 top and Hot Springs Mat bottom" width="48%">
+<img src="figures/blast_identity_references_centered.png" alt="BLAST percent identity between all reference 16S sequences, MBARC-26 top and Hot Springs Mat bottom" width="48%">
 <img src="figures/hamming_assembled_vs_reference.png" alt="Hamming distance percentage between assembled and reference 16S sequences, MBARC-26 top and Hot Springs Mat bottom" width="48%">
 </p>
 

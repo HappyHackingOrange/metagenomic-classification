@@ -10,6 +10,10 @@ My contribution: analysis code and manuscript graphics.
 
 The paper evaluates assembly and profiling tools (PhyloFlash, MEGAHIT, MetaSPAdes, Kraken2, Mothur, UniCycler and PathRacer) against two deep learning classifiers, DNABERT and DeLUCS, on two synthetic communities. It finds the two families of tools complementary: PhyloFlash and DeLUCS together identified more organisms than either alone, and organisms with highly repetitive genomes were the hardest for both.
 
+## Published data
+
+The data behind the paper is open access on Zenodo, and I am a named author: https://doi.org/10.5281/zenodo.7949233 (all versions), with releases at https://doi.org/10.5281/zenodo.7949234 and https://doi.org/10.5281/zenodo.7953871.
+
 ## What these scripts do
 
 ```mermaid

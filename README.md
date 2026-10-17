@@ -34,7 +34,7 @@ Three similarity measures, each computed all-against-all and plotted as a heatma
 Datasets:
 
 - **MBARC-26**, a mock community of 26 organisms.
-- **Hot Springs Mat**, a synthetic community of Yellowstone hot spring organisms provided by Amanda Shelton (labelled `amanda` in the file names).
+- **Hot Springs Mat**, a synthetic community of Yellowstone hot spring organisms provided by Amanda Shelton (labelled `amanda` in the file names), derived from samples described in Shelton et al. 2025, *ISME J*, https://doi.org/10.1093/ismejo/wraf001.
 - **E. coli**, a set of E. coli 16S sequences compared with each other.
 
 The heatmaps these scripts produce appear in the paper as Figures 1 to 4, each with MBARC-26 on top and Hot Springs Mat below. Two of them:
